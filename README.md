@@ -11,8 +11,11 @@ But before the visualization was done, some cleaning had to be done on the Data!
 
 ## Key Insights
 🎵 The Music Category reigned supreme as the most popular category on YouTube in both 2017 and 2018. As shown on this [Bar Chart](https://public.tableau.com/app/profile/henry.adeyemi/viz/UdacityBAND-VisualizationProject/MostViewedandLikedYoutubeVideoCategories)
+
 🏔️ In 2017, MigosVEVO led the charge with the most views in Alaska, amassing an impressive 116 million views. However, 2018 saw TMZ taking the lead with approximately 29 million views. As shown on the [Map Chart](https://public.tableau.com/app/profile/henry.adeyemi/viz/UdacityBAND-VisualizationProject-3/ChannelTitlewiththehighestviewsperState)
+
 🌟 KendrickLamarVEVO's "Kendrick Lamar, SZA - All the Stars" claimed the crown for the most viewed and liked video in 2018. 
+
 🔥 The YouTube Rewind: The Shape of 2017 was the most viewed and liked video when we combined data for both years.
 
 📽️💡 You can interact with the Tableau Dashboard through [here](https://public.tableau.com/app/profile/henry.adeyemi/viz/UdacityBAND-VisualizationProject-Dashboard/EvaluatingChannelswithTrendingYouTubeVideos2017-2018)
