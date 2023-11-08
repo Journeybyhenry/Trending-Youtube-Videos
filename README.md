@@ -18,4 +18,4 @@ But before the visualization was done, some cleaning had to be done on the Data!
 
 🔥 The YouTube Rewind: The Shape of 2017 was the most viewed and liked video when we combined data for both years.
 
-📽️💡 You can interact with the Tableau Dashboard through [here](https://public.tableau.com/app/profile/henry.adeyemi/viz/UdacityBAND-VisualizationProject-Dashboard/EvaluatingChannelswithTrendingYouTubeVideos2017-2018)
+📽️💡 You can interact with the Tableau Dashboard [here](https://public.tableau.com/app/profile/henry.adeyemi/viz/UdacityBAND-VisualizationProject-Dashboard/EvaluatingChannelswithTrendingYouTubeVideos2017-2018)
